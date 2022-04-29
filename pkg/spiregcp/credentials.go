@@ -2,7 +2,7 @@ package spiregcp
 
 import (
 	"fmt"
-	"github.com/jsiebens/spiffe-gcp-helper/pkg/oauth2"
+	"github.com/jsiebens/spire-gcp-helper/pkg/oauth2"
 	"golang.org/x/oauth2/google"
 )
 

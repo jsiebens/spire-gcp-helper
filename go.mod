@@ -1,4 +1,4 @@
-module github.com/jsiebens/spiffe-gcp-helper
+module github.com/jsiebens/spire-gcp-helper
 
 go 1.18
 

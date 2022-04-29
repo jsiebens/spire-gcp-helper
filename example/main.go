@@ -4,7 +4,7 @@ import (
 	"cloud.google.com/go/storage"
 	"context"
 	"fmt"
-	"github.com/jsiebens/spiffe-gcp-helper/pkg/spiregcp"
+	"github.com/jsiebens/spire-gcp-helper/pkg/spiregcp"
 	"google.golang.org/api/iterator"
 	"google.golang.org/api/option"
 	"log"
